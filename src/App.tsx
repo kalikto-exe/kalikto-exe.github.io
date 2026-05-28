@@ -673,7 +673,7 @@ export default function App() {
             {/* Copyright Bar */}
             <div className="px-10 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
               <span className="font-mono text-white/20 text-[9px] tracking-[0.2em] uppercase">
-                © 2025 World International Sports Association. All rights reserved.
+                © 2025 World International Sports Association. Designed by Smit Mehta. All rights reserved.
               </span>
               <div className="flex items-center gap-6">
                 {['Privacy Policy', 'Terms of Use', 'Cookie Settings'].map(item => (
