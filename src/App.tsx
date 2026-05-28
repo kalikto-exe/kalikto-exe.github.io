@@ -7,7 +7,7 @@ import NavItem from './components/NavItem'
 
 // Google Drive direct video URL
 const VIDEO_URL =
-  'https://player.cloudinary.com/embed/?cloud_name=dd40c4kty&public_id=clt_l_f_p_l_h_g_g_g_clt_l_f_p_l_h_g_g_g_mp__b33wst'
+  'https://res.cloudinary.com/dd40c4kty/video/upload/v1779942695/clt_l_f_p_l_h_g_g_g_clt_l_f_p_l_h_g_g_g_mp__bud9ep.mp4'
 
 const NAV_LINKS = ['League', 'Clubs', 'Players', 'Fixtures', 'About']
 
